@@ -52,7 +52,7 @@ I am a Backend Developer with a passion for crafting robust and scalable solutio
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/bunayya-wahyu-a1765b21b"><img src="https://img.shields.io/badge/-Bunayya%20Wahyu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bunayya-wahyu-a1765b21b"><img src="https://img.shields.io/badge/-Bunayya%20Wahyu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bunayya12345@gmail.com"><img src="https://img.shields.io/badge/-bunayya12345-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/bwf.klarap.5"><img src="https://img.shields.io/badge/-Bunayya Wahyu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
