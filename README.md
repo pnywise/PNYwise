@@ -63,11 +63,3 @@ I am a Backend Developer with a passion for crafting robust and scalable solutio
 <a href="mailto:bunayya12345@gmail.com"><img src="https://img.shields.io/badge/-bunayya12345-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/bwf.klarap.5"><img src="https://img.shields.io/badge/-Bunayya Wahyu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/PNYwise">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
