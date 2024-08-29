@@ -8,38 +8,31 @@ I am a Backend Developer with a passion for crafting robust and scalable solutio
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-%232B82D4.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![Go Fiber](https://img.shields.io/badge/Go_Fiber-%2300C0E9.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23B01D28.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-%23FF9900.svg?style=for-the-badge&&logoColor=white)&nbsp;
-![NGINX](https://img.shields.io/badge/nginx-green?style=for-the-badge&logo=nginx)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%232F2F2F.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1C)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%232F2F2F.svg?style=for-the-badge&logo=typescript&logoColor=%232B82D4)&nbsp;
+![Golang](https://img.shields.io/badge/Golang-%232F2F2F.svg?style=for-the-badge&logo=go&logoColor=%2300ADD8)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%232F2F2F.svg?style=for-the-badge&logo=php&logoColor=%23777BB4)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-%232F2F2F.svg?style=for-the-badge&logo=express&logoColor=%23000000)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-%232F2F2F.svg?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)&nbsp;
+![Go Fiber](https://img.shields.io/badge/Go_Fiber-%232F2F2F.svg?style=for-the-badge&logo=go&logoColor=%2300C0E9)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-%232F2F2F.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-%232F2F2F.svg?style=for-the-badge&logo=swagger&logoColor=%23Clojure)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%232F2F2F.svg?style=for-the-badge&logo=apache-kafka&logoColor=%23B01D28)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%232F2F2F.svg?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%232F2F2F.svg?style=for-the-badge&logo=google-cloud&logoColor=%234285F4)&nbsp;
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-%232F2F2F.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)&nbsp;
+![NGINX](https://img.shields.io/badge/nginx-%232F2F2F.svg?style=for-the-badge&logo=nginx&logoColor=%2312B478)&nbsp;
+![Git](https://img.shields.io/badge/git-%232F2F2F.svg?style=for-the-badge&logo=git&logoColor=%23F05033)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-%232F2F2F.svg?style=for-the-badge&logo=docker&logoColor=%23007ACC)&nbsp;
+![Jenkins](https://img.shields.io/badge/jenkins-%232F2F2F.svg?style=for-the-badge&logo=jenkins&logoColor=%232C5263)&nbsp;
+
 
 ### 🗃 &nbsp;Databases
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%232F2F2F.svg?style=for-the-badge&logo=redis&logoColor=%23DD0031)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%232F2F2F.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%232F2F2F.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)
 
-### 🧰 &nbsp;Others 
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
