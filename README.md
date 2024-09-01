@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a Backend Developer with a passion for crafting robust and scalable solutions. With over 2 years of hands-on experience in backend development, I excel in environments that challenge innovation and problem-solving. I am dedicated to staying abreast of the latest technologies and best practices in the field. Collaborative by nature, I thrive in multidisciplinary teams, contributing technical expertise while continuously learning. At present, I’m on track for learning more about XMPP, Microservice-Based Architecture, and Pub-Sub Architecture.
+I am a Backend Developer with a passion for crafting robust and scalable solutions. With around 3 years of hands-on experience in backend development, I excel in environments that challenge innovation and problem-solving. I am dedicated to staying abreast of the latest technologies and best practices in the field. Collaborative by nature, I thrive in multidisciplinary teams, contributing technical expertise while continuously learning. At present, I’m on track to learn more about XMPP, Microservice-Based Architecture, and Pub-Sub Architecture.
 
 
 ### 🛠 &nbsp;Tech Stack
