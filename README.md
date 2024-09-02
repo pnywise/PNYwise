@@ -41,12 +41,12 @@ I am a Backend Developer with a passion for crafting robust and scalable solutio
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PNYwise&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/PNYwise">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PNYwise&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PNYwise&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PNYwise&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PNYwise&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
